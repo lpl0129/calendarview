@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--过去的时间字体颜色-->
+    <color name="yesterday">#ff222222</color>
+    <!--将来的时间字体颜色-->
+    <color name="tomorrow">#ff999999</color>
+    <!--当前日期字体颜色,选中-->
+    <color name="today_select">#fff</color>
+    <!--当前日期字体颜色,未选中-->
+    <color name="today_unselected">#ffff6600</color>
+    <!--圆圈的颜色-->
+    <color name="round">#FFFF6600</color>
+    <!--农历月份字体颜色，因为这里没有用所以设置为了透明-->
+    <color name="month_lunar">#0000</color>
+
+
+</resources>
