@@ -22,10 +22,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 日历对象、
- */
-@SuppressWarnings("all")
+
 public final class Calendar implements Serializable {
     private static final long serialVersionUID = 141315161718191143L;
 

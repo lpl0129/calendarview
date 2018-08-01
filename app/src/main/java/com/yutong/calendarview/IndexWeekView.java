@@ -4,10 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
-/**
- * 下标周视图
- * Created by huanghaibin on 2017/11/29.
- */
+
 
 public class IndexWeekView extends WeekView {
     private Paint mSchemeBasicPaint = new Paint();

@@ -8,10 +8,7 @@ import android.graphics.Paint;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * 下标标记的日历控件
- * Created by huanghaibin on 2017/11/15.
- */
+
 
 public class IndexMonthView extends MonthView {
     private Paint mSchemeBasicPaint = new Paint();

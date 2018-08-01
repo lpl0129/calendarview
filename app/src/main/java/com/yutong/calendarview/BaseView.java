@@ -26,10 +26,7 @@ import android.view.View;
 
 import java.util.List;
 
-/**
- * 基本的日历View，派生出MonthView 和 WeekView
- * Created by huanghaibin on 2018/1/23.
- */
+
 
 public abstract class BaseView extends View implements View.OnClickListener, View.OnLongClickListener {
 

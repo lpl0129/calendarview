@@ -24,9 +24,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 基本的适配器
- */
+
 abstract class BaseRecyclerAdapter<T> extends RecyclerView.Adapter {
 
     LayoutInflater mInflater;

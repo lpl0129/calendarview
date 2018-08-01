@@ -19,10 +19,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
-/**
- * 默认高仿魅族周视图
- * Created by huanghaibin on 2017/11/29.
- */
+
 
 public final class DefaultWeekView extends WeekView {
     private Paint mTextPaint = new Paint();

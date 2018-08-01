@@ -25,10 +25,7 @@ import android.util.AttributeSet;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Google规范化的属性委托,
- * 这里基本是没有逻辑的，代码量多，但是不影响阅读性
- */
+
 final class CalendarViewDelegate {
 
     static final int WEEK_START_WITH_SUN = 1;

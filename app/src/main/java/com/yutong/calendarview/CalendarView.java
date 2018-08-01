@@ -31,11 +31,7 @@ import android.widget.FrameLayout;
 import java.lang.reflect.Constructor;
 import java.util.List;
 
-/**
- * 日历布局
- * 各个类使用包权限，避免不必要的public
- */
-@SuppressWarnings("unused")
+
 public class CalendarView extends FrameLayout {
 
     /**
