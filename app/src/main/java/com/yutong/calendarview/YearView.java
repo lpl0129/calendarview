@@ -54,6 +54,7 @@ public class YearView extends View {
         mSchemePaint.setAntiAlias(true);
         mSchemePaint.setTextAlign(Paint.Align.CENTER);
         measureLine();
+
     }
 
     @Override
